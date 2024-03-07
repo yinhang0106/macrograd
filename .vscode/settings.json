@@ -1,8 +1,10 @@
 {
     "cSpell.words": [
+        "backpropagation",
         "graphviz",
         "macrograd",
         "micrograd",
-        "miniconda"
+        "miniconda",
+        "topo"
     ]
 }
