@@ -1,4 +1,4 @@
-from nn import MLP
+from macrograd.nn import MLP
 
 # example of training
 xs = [

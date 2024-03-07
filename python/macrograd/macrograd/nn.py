@@ -1,6 +1,6 @@
 import random
 
-from engin import Value
+from macrograd.engine import Value
 
 
 class Neuron:
